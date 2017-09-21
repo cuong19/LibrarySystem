@@ -1,0 +1,7 @@
+Run the User main class for the User app:
+- Username: cuong
+- Password: cuong
+
+Run the Librarian main class for the Librarian app:
+- Username: librarian
+- Password: librarian
